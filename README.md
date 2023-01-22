@@ -1,20 +1,17 @@
 ### Hi there 👋
-<a class="fa fa-instagram"></a>
+<img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" href="https://www.instagram.com/yoneszamiri6/" /><br>
 i'm younes a passionate self-taught full stack web developer from iran
 
+<img alt="GIF" src="./gif"/>
 
 
-<!--
-**Younes0077/Younes0077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+- 💬 Ask me about anything, i am happy to help 
+- 📫 any freelance work? do reach, <a href="mailto:yoneszamiri6@gmail.com">email :)</a>
+
