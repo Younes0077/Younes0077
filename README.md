@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" href="https://www.instagram.com/yoneszamiri6/" /><br>
 i'm younes a passionate self-taught full stack web developer from iran
 
-<img alt="GIF" src="./gif"/>
+<img alt="GIF" src=".animation.gif" />
 
 
 
