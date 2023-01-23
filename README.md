@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-i'm younes a passionate self-taught full stack web developer from iran I am interested in programming and books And I always enjoy helping others :wink:
+i'm younes a passionate self-taught full stack web developer . I am interested in programming and books And I always enjoy helping others :wink:
 
 
 
