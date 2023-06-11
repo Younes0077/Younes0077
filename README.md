@@ -25,4 +25,5 @@ i'm younes a passionate self-taught full stack web developer . I am interested i
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" alt="php" width="45" height="45" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="max-width: 100%;">
 
 <b>links</b>
-<hr><a href="https://telegram.me/younesZzz"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968940.png" jsaction="load:XAeZkd;" href="https://telegram.me/younesZzz" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Telegram - Free business icons" data-noaft="1" style="width: 33px; height: 33px; margin: 24.75px 0px;"></a><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" href="https://www.instagram.com/yoneszamiri6/" />  
+<hr><a href="https://telegram.me/younesZzz"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968940.png" jsaction="load:XAeZkd;" href="https://telegram.me/younesZzz" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Telegram - Free business icons" data-noaft="1" style="width: 33px; height: 33px; margin: 24.75px 0px;"></a>
+<a  href="https://www.instagram.com/yoneszamiri6/" ><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"/></a>
